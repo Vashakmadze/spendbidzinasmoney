@@ -5,6 +5,12 @@
     padding: 1rem 0;
 }
 
+@media only screen and (max-width: 1000px) {
+    .Header {
+        width: 100%;
+    }
+  }
+
 .img-wrapper {
     border-radius: 50%;
 }
