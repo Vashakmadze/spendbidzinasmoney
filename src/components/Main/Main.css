@@ -1,0 +1,10 @@
+.Main {
+    width: 80%;
+    margin: 1rem auto;
+    display: grid;
+    gap: 1rem;
+}
+
+@media (min-width: 900px) {
+    .Main { grid-template-columns: repeat(3, 1fr); }
+}

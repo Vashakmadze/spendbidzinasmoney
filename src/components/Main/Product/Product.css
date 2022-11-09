@@ -1,0 +1,45 @@
+.Product {
+    background-color: white;
+    padding: 1rem 0;
+}
+
+.buttons-div {
+    display: flex;
+    flex: row;
+    justify-content: space-evenly;
+}
+
+.buttons-div > div {
+    border-radius: 3px;
+    padding: 0.6rem 2rem;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+
+.sell-button {
+    background-color: #f1f2f6;
+    color: black;
+}
+
+.sell-button-red {
+    background: linear-gradient(180deg,#f53b82,#f53b57)!important;
+    color: white;
+}
+
+.buy-button {
+    background: linear-gradient(180deg,#2ecc71,#1abc9c);
+    color: white;
+}
+
+.img-div > img {
+    height: 7.5rem;
+    max-width: 60%;
+}
+
+.price-product {
+    color: #24c486;
+}

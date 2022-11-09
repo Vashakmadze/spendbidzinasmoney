@@ -1,0 +1,279 @@
+[
+    {
+        "id": 1,
+        "title" : "ბურგერი",
+        "price": 2,
+        "image": "https://neal.fun/spend/images/big-mac.jpg"
+    },
+    {
+        "id": 2 ,
+        "title" : "ჩუსტი",
+        "price": 3,
+        "image": "https://neal.fun/spend/images/flip-flops.jpg"
+
+    },
+    {
+        "id": 3,
+        "title" : "ერთი შეკვრა კოლა",
+        "price": 5,
+        "image": "https://neal.fun/spend/images/coca-cola-pack.jpg"
+    },
+    {
+        "id": 4,
+        "title" : "ფილმის ბილეთი",
+        "price": 12,
+        "image": "https://neal.fun/spend/images/movie-ticket.jpg"
+    },
+    {
+        "id": 5,
+        "title" : "წიგნი",
+        "price": 15,
+        "image": "https://neal.fun/spend/images/book.jpg"
+    },
+    {
+        "id": 6,
+        "title" : "ვახშამი",
+        "price": 45,
+        "image": "https://neal.fun/spend/images/lobster-dinner.jpg"
+
+    },
+    {
+        "id": 8,
+        "title" : "ვიდეო თამაში",
+        "price": 60,
+        "image": "https://neal.fun/spend/images/video-game.jpg"
+
+    },
+    {
+        "id": 9,
+        "title" : "ამაზონ ექო",
+        "price": 99,
+        "image": "https://neal.fun/spend/images/amazon-echo.jpg"
+
+    },
+    {
+        "id": 10,
+        "title" : "1 წლიანი ნეტფლიქსი",
+        "price": 100,
+        "image": "https://neal.fun/spend/images/year-of-netflix.jpg"
+
+    },
+    {
+        "id": 11,
+        "title" : "ჯორდანები",
+        "price": 125,
+        "image": "https://neal.fun/spend/images/air-jordans.jpg"
+
+    },
+    {
+        "id": 12,
+        "title" : "ეარპოდსი",
+        "price": 199,
+        "image": "https://neal.fun/spend/images/airpods.jpg"
+
+    },
+    {
+        "id": 13,
+        "title" : "სათამაშო კონსოლი",
+        "price": 299,
+        "image": "https://neal.fun/spend/images/gaming-console.jpg"
+
+    },
+    {
+        "id": 14,
+        "title" : "დრონი",
+        "price": 350,
+        "image": "https://neal.fun/spend/images/drone.jpg"
+
+    },
+    {
+        "id": 15,
+        "title" : "სმარტფონი",
+        "price": 699,
+        "image": "https://neal.fun/spend/images/smartphone.jpg"
+
+    },
+    {
+        "id": 16,
+        "title" : "ველოსიპედი",
+        "price": 800,
+        "image": "https://neal.fun/spend/images/bike.jpg"
+
+    },
+    {
+        "id": 17,
+        "title" : "საყვარელი ფისო",
+        "price": 1500,
+        "image": "https://neal.fun/spend/images/kitten.jpg"
+
+    },
+    {
+        "id": 18,
+        "title" : "საყვარელი ლეკვი",
+        "price": 1500,
+        "image": "https://neal.fun/spend/images/puppy.jpg"
+
+    },
+    {
+        "id": 19,
+        "title" : "მოტოციკლეტი",
+        "price": 2300,
+        "image": "https://neal.fun/spend/images/auto-rickshaw.jpg"
+
+    },
+    {
+        "id": 20,
+        "title" : "ცხენი",
+        "price": 2500,
+        "image": "https://neal.fun/spend/images/horse.jpg"
+
+    },
+    {
+        "id": 21,
+        "title" : "1 ჰექტარი მიწა",
+        "price": 3000,
+        "image": "https://neal.fun/spend/images/acre-of-farmland.jpg"
+
+    },
+    {
+        "id": 22,
+        "title" : "მოდური ჩანთა",
+        "price": 5500,
+        "image": "https://neal.fun/spend/images/designer-handbag.jpg"
+
+    },
+    {
+        "id": 23,
+        "title" : "ჯაკუზი",
+        "price": 6000,
+        "image": "https://neal.fun/spend/images/designer-handbag.jpg"
+
+    },
+    {
+        "id": 24,
+        "title" : "ძვირადღირებული ღვინო",
+        "price": 7000,
+        "image": "https://neal.fun/spend/images/luxury-wine.jpg"
+
+    },
+    {
+        "id": 25,
+        "title" : "ალმასის ბეჭედი",
+        "price": 10000,
+        "image": "https://neal.fun/spend/images/diamond-ring.jpg    "
+
+    },
+    {
+        "id": 26,
+        "title" : "კატერი",
+        "price": 12000,
+        "image": "https://neal.fun/spend/images/diamond-ring.jpg"
+
+    },
+    {
+        "id": 27,
+        "title" : "როლექსი",
+        "price": 15000,
+        "image": "https://neal.fun/spend/images/rolex.jpg"
+
+    },
+    {
+        "id": 28,
+        "title" : "პიკაპი",
+        "price": 30000,
+        "image": "https://neal.fun/spend/images/ford-f-150.jpg"
+
+    },
+    {
+        "id": 29,
+        "title" : "ტესლა",
+        "price": 150000,
+        "image": "https://neal.fun/spend/images/tesla.jpg"
+
+    },
+    {
+        "id": 30,
+        "title" : "ოფროუდის მანქანა",
+        "price": 150000,
+        "image": "https://neal.fun/spend/images/monster-truck.jpg"
+
+    },
+    {
+        "id": 31,
+        "title" : "ფერარი",
+        "price": 250000,
+        "image": "https://neal.fun/spend/images/ferrari.jpg"
+
+    },
+    {
+        "id": 32,
+        "title" : "კერძო სახლი",
+        "price": 300000,
+        "image": "https://neal.fun/spend/images/single-family-home.jpg"
+
+    },
+    {
+        "id": 33,
+        "title" : "ოქროს ბარი",
+        "price": 700000,
+        "image": "https://neal.fun/spend/images/gold-bar.jpg"
+
+    },
+    {
+        "id": 34,
+        "title" : "მაკდონალდსის ფრენჩაიზი",
+        "price": 1500000,
+        "image": "https://neal.fun/spend/images/mcdonalds-franchise.jpg"
+
+    },
+    {
+        "id": 35,
+        "title" : "რეკლამა სუპერბოულზე",
+        "price": 5250000,
+        "image": "https://neal.fun/spend/images/superbowl-ad.jpg"
+
+    },
+    {
+        "id": 36,
+        "title" : "იახტა",
+        "price": 7500000,
+        "image": "https://neal.fun/spend/images/yacht.jpg"
+
+    },
+    {
+        "id": 37,
+        "title" : "მ1 აბრამსი",
+        "price": 8000000,
+        "image": "https://neal.fun/spend/images/m1-abrams.jpg"
+
+    },
+    {
+        "id": 38,
+        "title" : "F1-ის ბოლიდი",
+        "price": 15000000,
+        "image": "https://neal.fun/spend/images/formula-1-car.jpg"
+
+    },
+    {
+        "id": 39,
+        "title" : "გამანადგურებელი",
+        "price": 31000000,
+        "image": "https://neal.fun/spend/images/apache-helicopter.jpg"
+
+    },
+    {
+        "id": 40,
+        "title" : "სასახლე",
+        "price": 45000000,
+        "image": "https://neal.fun/spend/images/mansion.jpg"
+
+    },
+    {
+        "id": 41,
+        "title" : "სახელმწიფო",
+        "price": 1,
+        "image": "https://cdn.britannica.com/17/4717-004-6F48198E/Flag-Republic-of-Georgia.jpg"
+
+    }
+
+]

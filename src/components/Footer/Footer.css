@@ -1,0 +1,51 @@
+.Footer {
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.receipt-title  {
+    padding-top: 2rem;
+}
+
+.total-title {
+    display: inline-block;
+}
+
+.total-div > h1{
+    font-size: 1rem;
+    display: inline-block;
+}
+
+.total-div {
+    border-top: 1px solid black;
+    margin: 0 auto;
+    max-width: 18.75rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.total-numbers {
+    color: #24c486;
+    font-weight: 800;
+}
+
+.none {
+    display: none;
+}
+
+.icon {
+    cursor: pointer;
+    transition: .3s;
+    margin: 0 0.5rem;
+}
+
+.icon:hover {
+    transition: .3s;
+    color: #24c486;
+}
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }

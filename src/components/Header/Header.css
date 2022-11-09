@@ -1,0 +1,30 @@
+.Header {
+    width: 80%;
+    margin: 1rem auto;
+    background-color: white;
+    padding: 1rem 0;
+}
+
+.img-wrapper {
+    border-radius: 50%;
+}
+
+.img-wrapper > img {
+    display: inline-block;
+    position: relative;
+    width: 7.813rem;
+    height: 7.813rem;
+    overflow: hidden;
+    border-radius: 50%; 
+}
+
+.net-worth-div{
+    background: linear-gradient(180deg,#2ecc71,#1abc9c);
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    padding: 0.75rem 0;
+    position: sticky;
+    top: 0;
+}
+
