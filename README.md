@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 ![GIF SHOWCASE](https://github.com/Vashakmadze/spendbidzinasmoney/blob/main/Spend%20bidzos%20money.gif "WEBSITE SHOWCASE")
 
+My Georgian version of popular website - https://neal.fun/spend/. The application was written in ReactJs with use of React Hooks. See the website here - https://vashakmadze.github.io/spendbidzinasmoney/.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
