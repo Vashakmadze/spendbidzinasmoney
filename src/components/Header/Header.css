@@ -11,6 +11,11 @@
     }
   }
 
+@media only screen and (max-width: 800px) {
+    .Header {
+        width: 100%;
+    }
+}
 .img-wrapper {
     border-radius: 50%;
 }
