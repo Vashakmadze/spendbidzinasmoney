@@ -9,10 +9,6 @@ import Footer from "./components/Footer/Footer";
 
 function App() {
 
-  useEffect(() => {
-    document.title = "Spend Bidzo's Money";
-  });
-
   const [netWorth, setNetWorth] = useState(4800000000);
 
   const [cartLength, setCartLength] = useState(0);
